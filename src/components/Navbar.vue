@@ -21,6 +21,6 @@
 
 <style>
 .nav-wrapper {
-  background-color: royalblue;
+  background-color: #4f5466;
 }
 </style>
